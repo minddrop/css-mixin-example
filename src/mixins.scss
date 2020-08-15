@@ -1,0 +1,7 @@
+@mixin red {
+  color: red;
+}
+
+@mixin needVariable {
+  @content;
+}
